@@ -2,4 +2,4 @@
 
 Let it snow!
 
-<img width="788" alt="Screenshot 2023-11-18 at 18 30 51" src="https://github.com/xeweva/Snowfall-Animation/assets/54597813/fd4d7370-768c-4845-8c10-cfaf3b480eca">
+<img width="788" alt="Screenshot 2023-11-18 at 18 31 06" src="https://github.com/xeweva/Snowfall-Animation/assets/54597813/f592a9cb-e618-483b-9ae2-b6e6e64aec79">
