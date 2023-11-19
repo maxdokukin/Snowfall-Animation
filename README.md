@@ -1,4 +1,4 @@
-# Snowfall-Animation
+# Snowfall Animation
 
 Let it snow!
 
